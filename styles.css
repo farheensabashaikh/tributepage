@@ -1,0 +1,45 @@
+body {
+  font-family: Georgia, serif;
+  background-color: black;
+}
+#main {
+  background-color: white;
+
+  border-radius: 5px;
+}
+#title {
+  text-align: center;
+  font-size: 40px;
+  padding-top: 20px;
+}
+#description {
+  text-align: center;
+  font-family: "Lucida Console", Courier, monospace;
+  border-radius: 40em;
+}
+#image-div {
+  background-color: black;
+}
+#image {
+  padding-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border-radius: 150px;
+}
+#desc {
+  background-color: #f0ee92;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+#para {
+  background-color: burlywood;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+}
+#demo {
+  background-color: peru;
+}
